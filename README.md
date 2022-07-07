@@ -8,4 +8,4 @@ I was written this as second project of my Deep Learning course in University of
 
 # Description
 The dataset has structed data from students that classified in 3 classes.   
-This project has some Deep Neural Network to classify students. Neural Networks models implemented by Keras in tensorflow library.
+This project has some Deep Neural Network to classify students. Neural Networks models implemented by Keras in Tensorflow library.
